@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+ body{
+   background-color: antiquewhite;
+   color:#0f141e;
+  font-size: 17px;
+  font-weight: 600;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+a{
+  color: #0f141e;
+  text-decoration: none;
+}a:hover{
+  text-decoration:underline;
+}
+a:active{
+  color:greenyellow
+}
+.avatar {
+  width: 200px;
+  border-radius: 28px;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25)
+}
+.info p{
+  color:#86898f;
+  font-style: italic;
+  text-decoration:none;
+  text-transform:uppercase;
+  letter-spacing: 1px;
+}
+.social {
+background:rgba(255, 255, 255, 0.233);
+padding: 25px;
+padding: 15px 35px;
+margin: 25px;
+margin: 14px;
+ border: 5px solid rgb(205, 198, 207);
+ border-bottom-style: dotted;
+ border-top: cadetblue 15px;
+
+}
+
+.bg-yellow{
+background-color: #fff9dc;}
+.bg-green{
+  background: #e5ffe7;}
+  .bg-red{
+    background: #ffe5e5}
+
+.card{
+padding: 15px 25px;
+margin-bottom: 25px;
+border-radius: 20px;}
+.list{
+  padding: 0 25px;
+
+}
+.list li{
+  color: #86898f;
+   margin-bottom: 10px;
+}.container{
+  max-width: 750px;
+  margin: auto;}
+  .table{
+    width: 100%;
+  }
+  .table td{
+   padding-bottom: 10px;
+  }
